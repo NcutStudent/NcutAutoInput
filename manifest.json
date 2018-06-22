@@ -1,0 +1,13 @@
+{
+    "name": "勤益自動填寫插件",
+    "version": "1.0",
+    "description": "線上教學反應意見調查系統很煩",
+    "permissions": [
+        "tabs", "<all_urls>"
+    ],
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "options.html"
+    },
+    "manifest_version": 2
+}
